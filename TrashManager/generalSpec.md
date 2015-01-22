@@ -42,3 +42,4 @@ Additional requirements:
 - Event driven
 - PSR compliance
 - Fully OO
+- Complete in under 40 minutes
