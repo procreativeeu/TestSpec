@@ -11,7 +11,7 @@ or when remaining capacity of the container is not sufficient to allow for putti
 ## 2. Entity list
 
 - **Trash Container** (bin) - Element that can store particular amount of trash. Capacity (cm3) is determined upon Trash Container 
-creation and cannot be changed later. 
+creation and cannot be changed later. There should be one Trash Container per Office, not per person.
 
 - **Trash Item** - Element that can be stored in Trash Container. Each element has it's volume (cm3) and a rate of becoming
  stinky.
